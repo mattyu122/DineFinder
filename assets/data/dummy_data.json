@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "The Gourmet Kitchen",
+    "imageURL": "https://images.pexels.com/photos/262978/pexels-photo-262978.jpeg",
+    "contactNumber": "+1-555-123-4567",
+    "address": "123 Main Street",
+    "postalCode": "A1A 1A1",
+    "rating": 4.5,
+    "priceRange": "$20-40",
+    "foodType": "Italian"
+  },
+  {
+    "id": 2,
+    "name": "Urban Bites",
+    "imageURL": "https://images.pexels.com/photos/1581384/pexels-photo-1581384.jpeg",
+    "contactNumber": "+1-555-234-5678",
+    "address": "456 Oak Avenue",
+    "postalCode": "B2B 2B2",
+    "rating": 4.0,
+    "priceRange": "$30-50",
+    "foodType": "American"
+  },
+  {
+    "id": 3,
+    "name": "Flavor Town",
+    "imageURL": "https://images.pexels.com/photos/541216/pexels-photo-541216.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "contactNumber": "+1-555-345-6789",
+    "address": "789 Pine Road",
+    "postalCode": "C3C 3C3",
+    "rating": 4.8,
+    "priceRange": "$50-100",
+    "foodType": "French"
+  },
+  {
+    "id": 4,
+    "name": "Savory Delights",
+    "imageURL": "https://images.pexels.com/photos/2079438/pexels-photo-2079438.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "contactNumber": "+1-555-456-7890",
+    "address": "101 Maple Boulevard",
+    "postalCode": "D4D 4D4",
+    "rating": 3.9,
+    "priceRange": "$15-30",
+    "foodType": "Mexican"
+  },
+  {
+    "id": 5,
+    "name": "Culinary Creations",
+    "imageURL": "https://images.pexels.com/photos/2403391/pexels-photo-2403391.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "contactNumber": "+1-555-567-8901",
+    "address": "202 Birch Lane",
+    "postalCode": "E5E 5E5",
+    "rating": 4.2,
+    "priceRange": "$10-20",
+    "foodType": "Chinese"
+  }
+]
